@@ -1,0 +1,24 @@
+[
+  {
+    "applicant_id": "APP-CA6686",
+    "timestamp": "2026-10-16 08:56:08",
+    "loan_amount": 3500,
+    "duration": 24,
+    "checking_status": "0 to < 200 DM",
+    "credit_history": "existing credits paid duly till now",
+    "risk_tier": "Low Risk",
+    "default_probability": 0.18,
+    "key_drivers": "checking_status, duration"
+  },
+  {
+    "applicant_id": "APP-67BE6A",
+    "timestamp": "2026-10-16 08:53:51",
+    "loan_amount": 3500,
+    "duration": 24,
+    "checking_status": "0 to < 200 DM",
+    "credit_history": "existing credits paid duly till now",
+    "risk_tier": "Low Risk",
+    "default_probability": 0.18,
+    "key_drivers": "checking_status, duration"
+  }
+]
